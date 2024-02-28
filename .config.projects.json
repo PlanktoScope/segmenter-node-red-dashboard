@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "segmenter-dev": {},
+    "empty_to_test": {
+      "credentialSecret": false
+    }
+  },
+  "activeProject": "segmenter-dev"
+}
